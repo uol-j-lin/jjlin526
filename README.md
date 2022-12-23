@@ -30,7 +30,7 @@
 
 
 
-### Frontend  
+### Front End  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/54ydb5x4" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/ms7tpbm6" alt="JavaScript" height="50" /></a>  
@@ -47,7 +47,7 @@
 
 
 
-### Backend  
+### Back End  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/3cen94ym" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/ms7tpbm6" alt="JavaScript" height="50" /></a>  
