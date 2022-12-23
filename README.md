@@ -4,6 +4,6 @@
 - 💚 Learning: Kubernetes, AWS/GCP/Azure, C# and ASP.NET.
 - 👀 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash
 - 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux
-- 🌕 Data science libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- 🌕 Data Science Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 - 🌎 Hobbies: Chess, Violin, Powerlifting
 - 📫 E-mail: uoljlin@gmail.com
