@@ -25,7 +25,7 @@
 <br/>  
 
 
-## My Skill Set  
+## <a id="user-content--my-tech-stack" class="anchor" aria-hidden="true" href="#-my-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/mechanical-arm.gif"><img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="30" data-animated-image="" style="max-width: 100%;"></a> My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -81,7 +81,7 @@
 <br/>  
 
 
-## Connect with Me
+## <a id="user-content--liked-my-work-support-me-here" class="anchor" aria-hidden="true" href="#-liked-my-work-support-me-here"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/star-struck.gif"><img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/star-struck.gif" width="30" data-animated-image="" style="max-width: 100%;"></a> Connect with Me
 <div align="center">
 <a href="https://github.com/jjlin526" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,7 +98,7 @@
 <br/>  
 
 
-## Github Statistics 
+## <a id="user-content--my-blogs" class="anchor" aria-hidden="true" href="#-my-blogs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/memo.gif"><img src="https://raw.githubusercontent.com/thevedicdev/devtools/main/emojis/telegram/memo.gif" width="32" data-animated-image="" style="max-width: 100%;"></a> Github Statistics 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlin526&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
