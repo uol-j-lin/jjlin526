@@ -16,8 +16,8 @@
 - 🌕 Data Science Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to MERN stack, databases and cloud computing!
+
 
 - ⚡ Hobbies: Chess, Violin, Powerlifting  
   
