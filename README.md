@@ -1,7 +1,7 @@
 ## <div align="center">I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda.  
+- 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda  
   
 
 - 🌱 I’m currently learning Kubernetes, C# and ASP.NET, Spring Boot  
@@ -19,7 +19,7 @@
 - ❓ Ask me about anything related to MERN stack, databases and cloud computing!
 
 
-- ⚡ Hobbies: Chess, Violin, Powerlifting  
+- ⚡ Hobbies: Chess, Violin, Powerlifting, Soccer  
   
 
 <br/>  
