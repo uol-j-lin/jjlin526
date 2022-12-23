@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Jonathan, a **Software Developer Intern** working on-site at Rio Tinto in Montreal, QC 
+#👋 Hi, I'm Jonathan, a **Software Developer Intern** working on-site at Rio Tinto in Montreal, QC 
 - 🚀 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash
 - 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux
 - 💞️ Interests: TensorFlow, Pytorch and Keras ML frameworks
