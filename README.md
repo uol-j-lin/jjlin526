@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Jonathan.
 - 👀 I’m interested in machine learning/A.I.
 - 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on full stack projects.
+- 💞️ I’m currently interested in ML frameworks like TensorFlow, Pytorch and Keras.
+- 💚 The next technologies and languages that I would like to learn include: Docker/Kubernetes, AWS/GCP/Azure, C# and ASP.NET.
 - 📫 E-mail: uoljlin@gmail.com.
