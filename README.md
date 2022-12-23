@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Jonathan.
 - 🌱 Skills: Full stack development, test-driven development and debugging.
 - 💞️ Interests: TensorFlow, Pytorch and Keras ML frameworks.
-- 💚 Learning: Kubernetes, AWS/GCP/Azure, C# and ASP.NET.
+- 💚 Learning: Kubernetes, C# and ASP.NET.
 - 👀 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash
 - 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux
 - 🌕 Data Science Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
