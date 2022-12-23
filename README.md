@@ -1,10 +1,9 @@
 - 👋 Hi, I'm Jonathan.
-- 👀 I’m interested in machine learning/A.I.
-- 🌱 I’m currently learning full stack development.
-- 💞️ I’m currently interested in ML frameworks like TensorFlow, Pytorch and Keras.
-- 💚 Technologies and languages that I would like to learn include: Kubernetes, AWS/GCP/Azure, C# and ASP.NET.
-- ☀️ Languages that I am familiar with include: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash
-- 🌀 Technologies that I am familiar with include: Node.js, Express, React, MongoDB, AWS, Docker, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux
-- 🌕 Data science libraries that I love include: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- 🌎 My interests and hobbies: Chess, Violin, Powerlifting
-- 📫 E-mail: uoljlin@gmail.com.
+- 🌱 Skills: Full stack development, test-driven development and debugging.
+- 💞️ Interests: TensorFlow, Pytorch and Keras ML frameworks.
+- 💚 Learning: Kubernetes, AWS/GCP/Azure, C# and ASP.NET.
+- 👀 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash
+- 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux
+- 🌕 Data science libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- 🌎 Hobbies: Chess, Violin, Powerlifting
+- 📫 E-mail: uoljlin@gmail.com
