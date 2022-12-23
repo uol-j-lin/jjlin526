@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Jonathan, a **Software Developer Intern** working on-site at Rio Tinto in Montreal, QC 🚀 ![image](https://user-images.githubusercontent.com/114364831/209384573-66da2e38-61a9-4f16-8462-e74f30b37eed.png)
-
+- 👋 Hi, I'm Jonathan, a **Software Developer Intern** working on-site at Rio Tinto in Montreal, QC 🚀 <img src="https://user-images.githubusercontent.com/114364831/209384573-66da2e38-61a9-4f16-8462-e74f30b37eed.png" width="200" height="200">
 - 🌱 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash
 - 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux
 - 💞️ Interests: TensorFlow, Pytorch and Keras ML frameworks
