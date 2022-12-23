@@ -6,6 +6,6 @@
 - 🌕 Data Science Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 - 🌎 Hobbies: Chess, Violin, Powerlifting
 - 📫 E-mail: uoljlin@gmail.com
-- 🤝 Linkedin: [Add me!](https://www.linkedin.com/in/jonathan-l526/)
+- 🤝 Linkedin: [Connect with me!](https://www.linkedin.com/in/jonathan-l526/)
 - ❓ Questions: Feel free to ask!
 
