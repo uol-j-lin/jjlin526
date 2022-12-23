@@ -4,7 +4,7 @@
 - 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda  
   
 
-- 🌱 I’m currently learning Kubernetes, C# and ASP.NET, Spring Boot  
+- 🌱 I’m currently learning Kubernetes, C# and ASP.NET, Spring Boot, Tensorflow, Keras and Pytorch
   
 
 - 🚀 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash  
