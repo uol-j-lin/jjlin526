@@ -1,7 +1,5 @@
 ## <div align="center">I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
-  
-- 👾 Visit my personal portfolio <a href="https://jjlin526.github.io">here</a>
-
+ 
 
 - 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda  
   
@@ -15,13 +13,13 @@
 - 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, jQuery, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux  
   
 
-- 🌕 Data Science and ML Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- ⚡ Data Science and ML Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  
   
 
 - ❓ Ask me about anything related to MERN stack, databases and cloud computing
 
 
-- ⚡ Hobbies: Chess, Violin, Powerlifting, Soccer  
+- 🦊 Check out my personal portfolio <a href="https://jjlin526.github.io">here</a>
 
 
 - 💌 Email: uoljlin@gmail.com
