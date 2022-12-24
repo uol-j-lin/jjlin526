@@ -1,4 +1,4 @@
-## <div align="center">I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
+## <div align="center">I'm J, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda  
