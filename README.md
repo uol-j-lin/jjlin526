@@ -13,7 +13,7 @@
 - 🌀 Technologies: Node.js, Express, React, MongoDB, AWS, Docker, jQuery, Apollo, GraphQL, Postman, Git, Github, Bootstrap, Linux  
   
 
-- 🌕 Data Science Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- 🌕 Data Science and ML Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  
   
 
 - ❓ Ask me about anything related to MERN stack, databases and cloud computing
