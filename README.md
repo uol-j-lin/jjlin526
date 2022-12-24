@@ -1,4 +1,4 @@
-## <div align="center">I'm J, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
+## <div align="center">I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda  
@@ -16,7 +16,7 @@
 - 🌕 Data Science Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  
   
 
-- ❓ Ask me about anything related to MERN stack, databases and cloud computing!
+- ❓ Ask me about anything related to MERN stack, databases and cloud computing
 
 
 - ⚡ Hobbies: Chess, Violin, Powerlifting, Soccer  
@@ -85,9 +85,6 @@
 <div align="center">
 <a href="https://github.com/jjlin526" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/jjlin526" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jonathan-l526" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
