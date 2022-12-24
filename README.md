@@ -20,6 +20,9 @@
 
 
 - ⚡ Hobbies: Chess, Violin, Powerlifting, Soccer  
+
+
+- 💌 Email: uoljlin@gmail.com
   
 
 <br/>  
