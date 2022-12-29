@@ -1,6 +1,7 @@
-## <div align="center">I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
+## <div align="center"><img src="https://github.com/jjlin526/jjlin526/blob/main/developer-in-hoodie.gif" width="40"> I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 🚀</div>  
 
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
+
 
 🔭 I'm building Spring Boot microservices & automating workflows with AWS Lambda
 
@@ -77,6 +78,8 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
+<img align='right' margin-left='90' src="https://github.com/jjlin526/jjlin526/blob/main/tech-stack.gif" width="285">
+
 ```javascript
 {
   "softwareDeveloper": {
@@ -84,8 +87,8 @@
     "pronouns": "He | Him",
     "favoriteLanguages": ["C++", "Javascript", "Java", "Python"],
     "skills": {
-      "frontEnd": ["React", "Redux", "HTML5", "jQuery", "TypeScript", "CSS3", "Bootstrap"],
-      "backEnd": ["MongoDB", "Node.js", "Linux", "Express.js", "PostgreSQL", "Firebase", "SQL"],
+      "frontEnd": ["React", "Redux", "jQuery", "Bootstrap"],
+      "backEnd": ["MongoDB", "Node.js", "Linux", "Express.js", "Firebase", "SQL"],
       "devOps": ["AWS", "Docker", "Bash"]
       "architecture": ["Microservices", "Single-page applications"]
     },
