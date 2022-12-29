@@ -81,21 +81,18 @@
 <img align='right' margin-left='90' src="https://github.com/jjlin526/jjlin526/blob/main/tech-stack.gif" width="285">
 
 ```javascript
-{
-  "softwareDeveloper": {
-    "name": "Jonathan",
-    "pronouns": "He | Him",
-    "favoriteLanguages": ["C++", "Javascript", "Java", "Python"],
-    "skills": {
-      "frontEnd": ["React", "Redux", "jQuery", "Bootstrap"],
-      "backEnd": ["MongoDB", "Node.js", "Linux", "Express.js", "Firebase", "SQL"],
-      "devOps": ["AWS", "Docker", "Bash"]
-      "architecture": ["Microservices", "Single-page applications"]
-    },
-    "currentFocus": ["Kubernetes", "C#", "ASP.NET", "Tensorflow", "Pytorch"],
-    "funFact": "I write my SQL queries in uppercase, 90% of the time"
-  }
-}
+const jonathan = {
+  "pronouns": "He | Him",
+  "favoriteLanguages": ["C++", "Javascript", "Java", "Python"],
+  "skillSet": {
+    "frontEnd": ["React", "Redux", "jQuery", "Bootstrap"],
+    "backEnd": ["MongoDB", "Node.js", "Linux", "Express.js", "Firebase", "SQL"],
+    "devOps": ["AWS", "Docker", "Bash"]
+    "architecture": ["Microservices", "Single-page applications"]
+  },
+  "currentFocus": ["Kubernetes", "C#", "ASP.NET", "Tensorflow", "Pytorch"],
+};
+
 ```
 
 <br/>  
