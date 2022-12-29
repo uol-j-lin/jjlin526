@@ -78,7 +78,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
-<img align='right' margin-left='90' src="https://github.com/jjlin526/jjlin526/blob/main/tech-stack.gif" width="262">
+<img align='right' margin-left='90' src="https://github.com/jjlin526/jjlin526/blob/main/tech-stack.gif" width="230">
 
 ```javascript
 const jonathan = {
