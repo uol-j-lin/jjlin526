@@ -1,10 +1,11 @@
 ## <div align="center">I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 👨‍💻🚀</div>  
-   
 
-- 🔭 I’m currently building microservices using Spring Boot and automating workflows using AWS Lambda
+<img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="390">
+
+- 🔭 I’m building microservices using Spring Boot and automating workflows using AWS Lambda
 
 
-- 🌱 I’m currently learning Kubernetes, C#, ASP.NET, Tensorflow, Keras and Pytorch
+- 🌱 I’m learning Kubernetes, C#, ASP.NET, Tensorflow, Keras and Pytorch
 
 
 - 🚀 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash  
