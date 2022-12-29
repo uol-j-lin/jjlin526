@@ -36,7 +36,8 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4wvz6345" alt="jQuery" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/3ac92cb7" alt="TypeScript" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/y4m5vdzz" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4e288w2s" alt="Bootstrap" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4e288w2s" alt="Bootstrap" height="50" /></a> 
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/22y5w5uh" alt="Material UI" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -57,6 +58,7 @@
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/48bnxrfp" alt="Go" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/c783c5ph" alt="GraphQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4wjnsv2r" alt="Git" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://tinyurl.com/ycksk75m" alt="Spring" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
