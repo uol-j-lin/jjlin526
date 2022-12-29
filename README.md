@@ -122,7 +122,7 @@ const jonathan = {
 
 <br/>  
  
-## GitHub Streak
+## <div><img src="https://github.com/jjlin526/jjlin526/blob/main/fire.gif" width="40"> GitHub Streak
 <div align="center">  <img src="https://streak-stats.demolab.com?user=jjlin526" align="center" /></div>
 
 
