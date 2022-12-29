@@ -121,7 +121,10 @@ const jonathan = {
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlin526&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
-  
+ 
+## GitHub Streak
+<div align="center">  <img src="https://streak-stats.demolab.com?user=jjlin526" align="center" /></div>
+
 
 <br/>  
 
