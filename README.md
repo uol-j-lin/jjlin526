@@ -88,7 +88,7 @@ const jonathan = {
     "frontEnd": ["React", "Redux", "jQuery", "Bootstrap"],
     "backEnd": ["MongoDB", "Node.js", "Linux", "Express.js", "Firebase", "SQL"],
     "devOps": ["AWS", "Docker", "Bash"]
-    "architecture": ["Microservices", "Single-page applications"]
+    "architecture": ["Microservices", "Single-page applications", "MVC"]
   },
   "currentFocus": ["Kubernetes", "C#", "ASP.NET", "Tensorflow", "Pytorch"],
 };
