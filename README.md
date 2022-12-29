@@ -2,7 +2,7 @@
 
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
-🔭 I’m building microservices using Spring Boot and automating workflows using AWS Lambda
+🔭 I'm building Spring Boot microservices & automating workflows with AWS Lambda
 
 
 🌱 I’m learning Kubernetes, C#, ASP.NET, Tensorflow, Keras and Pytorch
@@ -11,7 +11,7 @@
 💌 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash  
   
 
-🌀 Technologies: Node, Express, React, MongoDB, AWS, Docker, jQuery, Apollo, GraphQL, Git
+🌀 Technologies: Node, Express, React, MongoDB, AWS, Docker, jQuery, Apollo, GraphQL
   
 
 ❓ Ask me about anything related to MERN stack, databases and cloud computing
