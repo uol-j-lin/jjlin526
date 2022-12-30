@@ -126,6 +126,14 @@ const jonathan = {
 ## <img src="https://github.com/jjlin526/jjlin526/blob/main/snake.gif" width="40"> Watch a Snake Eat my Contributions
 ![snake gif](https://github.com/jjlin526/jjlin526/blob/output/github-contribution-grid-snake.gif)
 
+<br/>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br/>
+
 <div align="center">
             <a href="https://www.buymeacoffee.com/jjlin526" target="_blank" style="display: inline-block;">
                 <img
