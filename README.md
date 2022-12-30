@@ -3,7 +3,7 @@
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
 
-🔭 I'm building microservices using Spring & automating workflows with AWS Lambda
+🔭 I'm building microservices with Spring & automating workflows with AWS Lambda
 
 
 🌱 I’m learning Kubernetes, C#, ASP.NET, Firebase, Tensorflow & Pytorch
