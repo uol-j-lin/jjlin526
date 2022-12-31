@@ -130,9 +130,11 @@ const jonathan = {
 
 ## <img src="https://github.com/jjlin526/jjlin526/blob/main/fire.gif" width="40"> More Stats
 <!--START_SECTION:waka-->
+
 ```text
-Other   2 hrs 3 mins    █████████████████████████   100.00 %
+Other        10 hrs 18 mins  █████████████████████▒░░░   85.90 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>
