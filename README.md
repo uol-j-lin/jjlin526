@@ -7,18 +7,19 @@
 
 
 🌱 I’m learning Kubernetes, C#, ASP.NET, Firebase, Tensorflow & Pytorch
-
-
-💌 Languages: C++, Java, JavaScript, TypeScript, Python, Go, SQL, HTML, CSS, Bash  
-  
-
-🌀 Technologies: Node, Express, React, MongoDB, AWS, Docker, jQuery, Apollo, GraphQL
-  
+    
 
 ❓ Ask me about anything related to MERN stack, databases and cloud computing
 
 
-🦊 Check out my <a href="https://jjlin526.github.io">personal portfolio</a> and reach me through <a href="uoljlin@gmail.com">e-mail</a>
+🦊 Check out my <a href="https://jjlin526.github.io">personal portfolio</a> 
+
+
+💌 Reach me through <a href="uoljlin@gmail.com">e-mail</a>
+
+
+🌀 Fun fact: I prefer tabs over spaces
+
 
 <br/>  
 
