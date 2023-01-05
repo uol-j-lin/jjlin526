@@ -161,4 +161,4 @@ Other        10 hrs 18 mins  █████████████████
 <!--END_SECTION:waka-->
 
 > **Note**
-> Remember to star or fork the repository if you enjoyed it! 🔥
+> Consider starring or forking the repository
