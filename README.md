@@ -136,7 +136,7 @@ const jonathan = {
 <br/>
     
 > **Note**
-> Consider starring or forking the repository
+> Consider starring the repository
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/jjlin526" target="_blank" style="display: inline-block;">
