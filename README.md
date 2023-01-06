@@ -134,11 +134,9 @@ const jonathan = {
 [![Jonathan's github activity graph](https://github-graph.herokuapp.com/graph?username=jjlin526&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/jjlin526#gh-light-mode-only)
 
 <br/>
-
-## <img src="https://github.com/jjlin526/jjlin526/blob/main/snake.gif" width="40"> Watch a Snake Eat my Contributions
-![snake gif](https://github.com/jjlin526/jjlin526/blob/output/github-contribution-grid-snake.gif)
-
-<br/>
+    
+> **Note**
+> Consider starring or forking the repository
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/jjlin526" target="_blank" style="display: inline-block;">
@@ -149,16 +147,5 @@ const jonathan = {
             </a></div>  
 
 <br/>  
+    
 
-
-## <img src="https://github.com/jjlin526/jjlin526/blob/main/fire.gif" width="40"> More Stats
-<!--START_SECTION:waka-->
-
-```text
-Other        10 hrs 18 mins  █████████████████████▒░░░   85.90 %
-```
-
-<!--END_SECTION:waka-->
-
-> **Note**
-> Consider starring or forking the repository
