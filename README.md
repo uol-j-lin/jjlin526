@@ -132,9 +132,20 @@ const jonathan = {
 [![Jonathan's github activity graph](https://github-graph.herokuapp.com/graph?username=jjlin526&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712#gh-dark-mode-only)](https://github.com/jjlin526#gh-dark-mode-only)
   
 [![Jonathan's github activity graph](https://github-graph.herokuapp.com/graph?username=jjlin526&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/jjlin526#gh-light-mode-only)
+</details>
 
 <br/>
-    
+
+<details open>
+<summary><b>👇 More Metrics</b></summary>
+<br/>
+<div align="left"><img src="https://metrics.lecoq.io/jjlin526" height="350"/></div>
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=jjlin526&show_icons=true&count_private=true" height="175" />
+</details>
+
+<br/>  
+
 > **Note**
 > Consider starring the repository
 
@@ -146,6 +157,4 @@ const jonathan = {
                 />
             </a></div>  
 
-<br/>  
-    
 
