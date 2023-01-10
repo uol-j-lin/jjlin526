@@ -6,7 +6,7 @@
 🔭 I'm building microservices with Spring & automating workflows with AWS Lambda
 
 
-🌱 I’m learning Kubernetes, C#, ASP.NET, Firebase, Tensorflow & Pytorch
+🌱 I’m learning Kubernetes, Svelte, Firebase, Tensorflow & Pytorch
     
 
 ❓ Ask me about anything related to MERN stack, databases and cloud computing
