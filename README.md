@@ -106,7 +106,7 @@ const jonathan = {
 <details open>
 <summary><b>☄️ Global Stats</b></summary>
 <br/>
-<!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlin526&hide_border=true&layout=compact" height="175" /> -->
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlin526&hide_border=true&layout=compact" height="175" /> 
 <img src="https://streak-stats.demolab.com?user=jjlin526" height="175"/></div>
 </details>
 
