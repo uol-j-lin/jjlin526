@@ -130,7 +130,7 @@ const jonathan = {
 <summary><b>❄️ LeetCode Metrics</b></summary>
 <br/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jjlin526)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jjlin526?ext=activity)
     
 </details>
 
