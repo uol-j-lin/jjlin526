@@ -2,7 +2,6 @@
 
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
-
 🔭 I'm building microservices with Spring & automating workflows with AWS Lambda
 
 
@@ -154,6 +153,11 @@ const jonathan = {
 <div align="center">
            <a href="https://www.buymeacoffee.com/jjlin526" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     </div>
+    
+<br/>
+
+![Version : 20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![Build: Pass](https://img.shields.io/badge/build-pass-success)
 
 <br/>
     
