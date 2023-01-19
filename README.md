@@ -1,6 +1,6 @@
 ## <div align="center"><img src="https://github.com/jjlin526/jjlin526/blob/main/developer-in-hoodie.gif" width="40"> I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 🚀</div>  
 
-<div align="center">
+<!--<div align="center">
 <img src="https://img.shields.io/github/license/jjlin526/jjlin526?style=for-the-badge">
 
 <img src="https://img.shields.io/github/forks/jjlin526/jjlin526?style=for-the-badge">
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/issues/jjlin526/jjlin526?style=for-the-badge">
 
 <img src="https://img.shields.io/github/issues-pr/jjlin526/jjlin526?style=for-the-badge">
-</div>
+</div>-->
 
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
@@ -48,7 +48,11 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4wvz6345" alt="jQuery" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/3ac92cb7" alt="TypeScript" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/y4m5vdzz" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4e288w2s" alt="Bootstrap" height="50" /></a> 
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4e288w2s" alt="Bootstrap" height="50" />
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/y3s87cvt" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/27w5nftd" alt=".Net Core" height="50" /></a>  
+</div>
+</a> 
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/22y5w5uh" alt="Material UI" height="50" /></a> 
 </div>
 
@@ -72,6 +76,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4wjnsv2r" alt="Git" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://tinyurl.com/ycksk75m" alt="Spring" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4zpkx3dw" alt="PostgreSQL" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/y3s87cvt" alt="C#" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/27w5nftd" alt=".Net Core" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
