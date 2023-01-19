@@ -1,5 +1,17 @@
 ## <div align="center"><img src="https://github.com/jjlin526/jjlin526/blob/main/developer-in-hoodie.gif" width="40"> I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 🚀</div>  
 
+<div align="center">
+<img src="https://img.shields.io/github/license/jjlin526/jjlin526?style=for-the-badge">
+
+<img src="https://img.shields.io/github/forks/jjlin526/jjlin526?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/jjlin526/jjlin526?style=for-the-badge">
+
+<img src="https://img.shields.io/github/issues/jjlin526/jjlin526?style=for-the-badge">
+
+<img src="https://img.shields.io/github/issues-pr/jjlin526/jjlin526?style=for-the-badge">
+</div>
+
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
 🔭 I'm building microservices with Spring & automating workflows with AWS Lambda
@@ -158,18 +170,6 @@ const jonathan = {
 
 ![Version : 20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![Build: Pass](https://img.shields.io/badge/build-pass-success)
-
-/*<div align="center">
-<img src="https://img.shields.io/github/license/jjlin526/jjlin526?style=for-the-badge">
-
-<img src="https://img.shields.io/github/forks/jjlin526/jjlin526?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/jjlin526/jjlin526?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues/jjlin526/jjlin526?style=for-the-badge">
-
-<img src="https://img.shields.io/github/issues-pr/jjlin526/jjlin526?style=for-the-badge">
-</div>*/
 
 <br/>
     
