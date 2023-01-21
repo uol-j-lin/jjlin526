@@ -145,7 +145,7 @@ const jonathan = {
 </details>
 
 <details open>
-<summary><b>❄️ LeetCode Metrics</b></summary>
+<summary><b>❄️ Contact me</b></summary>
 <br/>
     
 <div align="center">
@@ -158,10 +158,9 @@ const jonathan = {
 <a href="https://linkedin.com/in/jonathan-l526" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+</details>
   
-<br/>  
-
 <div align="center">
            <a href="https://www.buymeacoffee.com/jjlin526" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
     </div>
