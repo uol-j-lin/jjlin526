@@ -147,12 +147,6 @@ const jonathan = {
 <details open>
 <summary><b>❄️ LeetCode Metrics</b></summary>
 <br/>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/jjlin526?ext=activity)
-    
-</details>
-
-<br/>  
     
 <div align="center">
 <a href="https://github.com/jjlin526" target="_blank">
