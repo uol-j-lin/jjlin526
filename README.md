@@ -14,7 +14,7 @@
 
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
-🔭 I'm a full stack developer with a strong interest in cloud technologies
+🔭 I'm a Full Stack Developer with a strong interest in cloud technologies
 
 
 🌱 I’m learning Kubernetes, Svelte, Firebase, Tensorflow & Pytorch
