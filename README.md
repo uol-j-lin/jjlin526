@@ -1,4 +1,4 @@
-## <div align="center"><img src="https://github.com/jjlin526/jjlin526/blob/main/developer-in-hoodie.gif" width="40"> I'm Jonathan, a Software Engineering Intern at Rio Tinto in Montreal, QC 🚀</div>  
+## <div align="center"><img src="https://github.com/jjlin526/jjlin526/blob/main/developer-in-hoodie.gif" width="40"> I'm Jonathan, a Software Engineer at Rio Tinto 🚀</div>  
 
 <!--<div align="center">
 <img src="https://img.shields.io/github/license/jjlin526/jjlin526?style=for-the-badge">
