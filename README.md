@@ -14,13 +14,13 @@
 
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
-🔭 I'm a Full Stack Developer with a strong interest in cloud technologies
+🔭 I'm a Software Engineer with a strong interest in cloud technologies and DevOps
 
 
 🌱 I’m learning Kubernetes, Ansible, Prometheus and Grafana
     
 
-❓ Ask me about anything related to DevOps and cloud computing
+❓ Ask me about anything related to AWS and containers
 
 
 🦊 Check out my <a href="https://jjlin526.github.io">personal portfolio</a> 
