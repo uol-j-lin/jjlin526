@@ -17,10 +17,10 @@
 🔭 I'm a Full Stack Developer with a strong interest in cloud technologies
 
 
-🌱 I’m learning Kubernetes, Svelte, Firebase, Tensorflow & Pytorch
+🌱 I’m learning Kubernetes, Ansible, Prometheus and Grafana
     
 
-❓ Ask me about anything related to MERN stack, databases and cloud computing
+❓ Ask me about anything related to DevOps and cloud computing
 
 
 🦊 Check out my <a href="https://jjlin526.github.io">personal portfolio</a> 
