@@ -23,9 +23,6 @@
 ❓ Ask me about anything related to AWS
 
 
-🦊 Check out my <a href="https://jjlin526.github.io">personal portfolio</a> 
-
-
 💌 Reach me through <a href="uoljlin@gmail.com">e-mail</a>
 
 
