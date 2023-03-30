@@ -20,7 +20,7 @@
 🌱 I’m learning Kubernetes, Ansible, Prometheus and Grafana
     
 
-❓ Ask me about anything related to AWS and containers
+❓ Ask me about anything related to AWS
 
 
 🦊 Check out my <a href="https://jjlin526.github.io">personal portfolio</a> 
