@@ -17,7 +17,7 @@
 🔭 I'm a Software Engineer with a strong interest in cloud technologies and DevOps
 
 
-🌱 I’m learning Kubernetes, Ansible, Prometheus and Grafana
+🌱 I’m learning Kubernetes and Ansible
     
 
 ❓ Ask me about anything related to AWS
