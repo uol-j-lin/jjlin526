@@ -65,7 +65,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/2f7syb6n" alt="Java" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/48bnxrfp" alt="Go" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/c783c5ph" alt="GraphQL" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4wjnsv2r" alt="Git" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://tinyurl.com/4zpkx3dw" alt="PostgreSQL" height="50" /></a>  
 </div>
 
@@ -102,11 +101,6 @@
   
 [![Jonathan's github activity graph](https://github-graph.herokuapp.com/graph?username=jjlin526&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/jjlin526#gh-light-mode-only)
 </details>
-  
-<div align="center">
-           <a href="https://www.buymeacoffee.com/jjlin526" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-    </div>
-    
 <br/>
 
 ![Version : 20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
