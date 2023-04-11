@@ -102,23 +102,9 @@
   
 [![Jonathan's github activity graph](https://github-graph.herokuapp.com/graph?username=jjlin526&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/jjlin526#gh-light-mode-only)
 </details>
-
-<details open>
-<summary><b>⚡ Contact me</b></summary>
-<br/>
-    
-<div align="center">
-<a href="https://github.com/jjlin526" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/uoljlin"_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-</details>
   
 <div align="center">
-           <a href="https://www.buymeacoffee.com/jjlin526" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+           <a href="https://www.buymeacoffee.com/jjlin526" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="154"></a>
     </div>
     
 <br/>
