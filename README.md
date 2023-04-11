@@ -101,12 +101,9 @@
   
 [![Jonathan's github activity graph](https://github-graph.herokuapp.com/graph?username=jjlin526&hide_border=true&radius=15&theme=github-compact&hide_title=true&line=020712&color=3572A5&point=3572A5#gh-light-mode-only)](https://github.com/jjlin526#gh-light-mode-only)
 </details>
-<br/>
 
 ![Version : 20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![Build: Pass](https://img.shields.io/badge/build-pass-success)
-
-<br/>
     
 > **Note**
 > Consider starring the repository
