@@ -17,7 +17,7 @@
 🔭 I'm a SWE with a strong interest in cloud technologies and DevOps
 
 
-🌱 I’m learning Kubernetes and Ansible
+🌱 I’m learning Kubernetes and Terraform
     
 
 ❓ Ask me about anything related to AWS
