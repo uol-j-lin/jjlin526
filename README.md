@@ -15,12 +15,9 @@
 <img align='right' margin-left='40' src="https://github.com/jjlin526/jjlin526/blob/main/programmer-working.gif" width="285">
 
 🔭 I'm a SWE with a strong interest in cloud technologies and algorithms
-
-
-🌱 I’m learning Kubernetes and Terraform
     
 
-❓ Ask me about anything related to AWS
+❓ Ask me about anything related to AWS and containerisation
 
 
 💌 Reach me through <a href="uoljlin@gmail.com">e-mail</a>
